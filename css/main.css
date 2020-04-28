@@ -8,6 +8,7 @@ html, body {
 
 body {
     position: relative;
+    background-image: url(/img/fon.jpg);
     background-color: #84a0c7;
     background-size: cover;
     background-repeat: no-repeat;
